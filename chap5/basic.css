@@ -1,0 +1,25 @@
+p {text-align:center;}
+h2 {font-size:20px; color:orange;}
+h2 {font-size:20px;
+    color:orange
+}
+* {
+    속성:속성 값; 속성:속성값;....
+}
+
+p {
+    fontsize: 12px;
+    font-family: 돋움;
+}
+
+.bluetext {
+    color:blue;
+}
+
+h1, h2 {
+    text-align:center;
+}
+
+-webkit-column-count:3;
+-moz-column-count:3;
+column-count:3;
